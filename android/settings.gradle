@@ -1,0 +1,3 @@
+rootProject.name = 'rgb_stream_18527'
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
